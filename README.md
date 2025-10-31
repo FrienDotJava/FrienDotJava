@@ -7,13 +7,13 @@
 
 - 📫 How to reach me **frenfrendy3@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/frendy-frendy-02657a209/](https://www.linkedin.com/in/frendy-frendy-02657a209/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/frendy-frendy/](https://www.linkedin.com/in/frendy-frendy/)
 
 - ⚡ Fun fact **Errors makes me overthink**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/frendy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frendy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/frendy-frendy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frendy" height="30" width="40" /></a>
 <a href="https://instagram.com/ntizz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ntizz_" height="30" width="40" /></a>
 </p>
 
