@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **machine learning and deep learning**
 
-- 📫 How to reach me **business-frendy@gmail.com**
+- 📫 How to reach me **business.frendy@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/frendy-frendy/](https://www.linkedin.com/in/frendy-frendy/)
 
